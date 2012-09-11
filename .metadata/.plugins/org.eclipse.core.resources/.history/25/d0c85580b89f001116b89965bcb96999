@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:#C6E3F3;
+	color:#666;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", serif;
+	font-size: 1em;
+	background-repeat: repeat-x;
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+C:\Users\zlanusic\islandOfMurter\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2050385740.index
+\zlanusic.wtp.filecounter\src
+C:\Users\zlanusic\islandOfMurter\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3429477392.index
+\SikicaMrvice\src
+C:\Users\zlanusic\islandOfMurter\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3862806570.index
+\SikicaMrvice\src
+C:\Users\zlanusic\islandOfMurter\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3721737245.index
+\SikicaMrvice\src

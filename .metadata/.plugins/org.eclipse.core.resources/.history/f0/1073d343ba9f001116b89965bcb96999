@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	color:#666; 
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", serif;
+	font-size: 1em;
+	background-repeat: repeat-x;
+}
+
+#container {
+	margin: 0 auto;
+	width: 1000px;
+	padding: 0;
+}
+
+#top {
+	background-image: url("IMAGES/kornati_backgroundPic.JPG");
+}

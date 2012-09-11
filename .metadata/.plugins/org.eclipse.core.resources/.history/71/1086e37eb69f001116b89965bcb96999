@@ -1,0 +1,8 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color:windowframe;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", serif;
+	font-size: 1em;
+	background-image: url("");
+}

@@ -1,0 +1,174 @@
+/* CSS doc */
+
+/*
+-----
+Fonts
+-----
+*/
+.header_right li {
+	display: inline;
+}
+
+#container a {
+	color:#a4cce2;
+	text-decoration: none;
+}
+
+#container a:HOVER {
+	color: #ffd238;
+	text-decoration: none;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*--------
+Structure
+----------
+*/
+body {
+	background: #C6E3F3 url("images/Backgorund_pics/_background.jpg") repeat-x 0 0;
+	/*background: #C6E3F3;
+	background-image: url("");
+	background-repeat: repeat-x;
+	color: #666;
+	font-family: "Comic Sans MS", "Adobe Caslon Pro", "Adobe Garamond Pro", "Tinos", Garamond, Georgia, sans-serif;
+	font-size: 1em;
+	margin: 0;
+	padding: 0;*/
+}
+
+#container {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#header {
+	height: 148px;
+}
+
+.header_left {
+	float: left;
+}
+
+.header_right {
+	float: right;
+	height: 51px;
+}
+
+#content {
+	
+}
+
+/* .wrapper {
+	position: relative;
+	width: 600px;
+	
+	
+	
+}
+
+
+.header {
+	background-image: url("images/kornatsko_otocje7_header.jpg");
+	background-repeat: no-repeat;
+	height: 150px;
+}
+
+
+#horizontalmenutop {
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalmenutop li {
+	display: inline; horizontal menu, in line display
+}
+
+#horizontalmenutop li a {
+	
+	color:#fff;
+	text-decoration:none; remove underline
+	
+	font-family: "Adobe Garamond Pro", "Adobe Caslon Pro", sans-serif;
+}
+
+#horizontalmenutop li a:HOVER {
+	background-color: #369;
+	color: #fff;
+}
+
+#horizontalmenufoot {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#horizontalmenufoot li {
+	 display:inline;
+	 margin: 10px;
+	
+	  
+}
+
+#horizontalmenufoot li a {
+	text-decoration: none;
+	color: #fff;
+	width: 600px;
+	padding: .2em 1em;
+	font: 0.8em;
+}
+
+#horizontalmenufoot li a:HOVER {
+	background-color: #369;
+	color: #fff;
+	
+}
+
+.footer {
+	background: url("images/kornatsko_otocje5_footer.jpg") no-repeat;
+	margin: 0 auto;
+	position: relative;
+	width: 600px;
+	
+}
+ */
+
+/*---------------
+Logo & Navigation
+-----------------
+*/
+
+div#site_logo span, div#site_logo a {
+	background: url("css/images/icons&logo_pics/murter_logo.jpg") no-repeat 0 0;
+	display: block;
+	height: 149px;
+	text-indent: -9999px;
+	width: 300px;
+}
+
+#nav_01 {
+	height: 51px;
+	width: 85px;
+	text-indent: 10000px;
+	overflow: hidden;
+	display: block;
+	float: left;
+}
+
+#nav_02 {
+	height: 51px;
+	width: 100px;
+	text-indent: 10000px;
+	overflow: hidden;
+}
+

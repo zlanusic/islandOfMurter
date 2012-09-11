@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SikicaMrvice/WebContent/css/images/kornatsko_otocje7_footer.jpg&apos; to &apos;kornatsko_otocje7_header.jpg&apos;" description="Rename resource &apos;kornatsko_otocje7_footer.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/css/images/kornatsko_otocje7_footer.jpg" name="kornatsko_otocje7_header.jpg" stamp="1337549829324" updateReferences="true"/>
+</session>

@@ -1,0 +1,6 @@
+#Sat May 12 23:06:28 CEST 2012
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=About Eclipse

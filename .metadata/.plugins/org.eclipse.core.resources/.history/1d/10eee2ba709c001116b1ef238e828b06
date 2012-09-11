@@ -1,0 +1,5 @@
+package zlanusic.wtp.filecounter.dao;
+
+public class FileDataAccessObject {
+
+}

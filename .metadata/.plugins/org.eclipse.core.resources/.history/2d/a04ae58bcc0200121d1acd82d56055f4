@@ -1,0 +1,352 @@
+/* CSS doc */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	border: none;
+}
+
+/*
+-----
+Fonts
+-----
+*/
+
+/* .header_right li {
+	display: inline;
+}
+
+#container a {
+	color: #167DB8;
+	text-decoration: none;
+}
+
+#container a:HOVER {
+	color: #ffd238;
+	text-decoration: none;
+}
+
+#entry ul {
+	list-style-type: none;
+} */
+
+/*--------
+Structure
+----------
+*/
+body {
+	background: #C6E3F3 url("images/Backgorund_pics/_background.jpg")
+		repeat-x center 0;
+	color: #666;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida,
+		Georgia, serif;
+	font-size: 1em;
+}
+
+#container {
+	width: 1090px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#content_container {
+	float: left;
+	width: 1090px;
+	/* background: url("images/icon&logo_pics/main-back.png") repeat-y; */
+}
+
+#content_left {
+	float: left;
+	width: 338px;
+	padding: 0;
+	margin: 0;
+}
+
+#main_left {
+	float: right;
+	width: 291px;
+	background-color: #C0B68C;
+	background: url("images/icon&logo_pics/main_left.png") no-repeat;
+	z-index: 1;
+	text-align: left;
+}
+
+
+#header {
+	height: 41px;
+	width: 1090px;
+	padding: 0;
+	margin: 0;
+	/* height: 148px; */
+}
+
+/* -------------------------- upper menu ---------------------------------- */
+
+#nav_container1 ul {
+	padding: 0;
+	margin: 0;
+	line-height: 41px;
+	color: #fff;
+	width: 100%;
+}
+
+#nav_container1 ul li {
+	display: inline;
+}
+
+#nav_container1 ul li a {
+	padding: 0 5px;
+	color: #fff;
+	text-decoration: none;
+	float: left;
+	font-size: 1em;
+}
+
+#nav_container1 ul li a:HOVER {
+	color: gray;
+}
+
+#nav_lst li {
+	float: right;
+	display: inline;
+	list-style-type: none;
+	position: relative;
+	padding-right: 1px;
+	font-size: .9em;
+}
+
+/* ------------------------------- left menu ------------------------------  */
+
+#nav_container2 {
+	padding: 10px 0px 0px 20px;
+	width: 250px;
+	margin: 0;
+	color: #fff;
+}
+
+/* ------------------------------ menu ------------------------------------- */
+
+.sidebar_menu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-weight: bold;
+	width: 230px;
+	border-bottom: 1px dotted #fff;
+	z-index: 999; 
+}
+
+.sidebar_menu ul li {
+	position: relative;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a {
+	display: block;
+	color: #ffff;
+	border-bottom: 1px dotted #fff;
+	overflow: hidden; /* IE7 */
+	text-decoration: none;
+	padding: 6px;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a:VISITED {
+	color: #ffff;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a:HOVER {
+	background-color: #C0B68C;
+	color: #437287;
+	z-index: 999;
+		opacity: 0.6;
+	filter: alpha(opacity=60);/* za IE8 i ranije */
+	
+}
+
+.sidebar_menu ul li ul {
+	position: absolute;
+	width: 230px;
+	top: 0;
+	background-color: #ffff;
+	opacity: 0.6;
+	filter: alpha(opacity=60);/* za IE8 i ranije */
+	visibility: hidden;
+	z-index: 999;
+}
+
+.sidebar_menu a.subfolder_style {
+	background: url("images/icon&logo_pics/right.gif") no-repeat 190px center;
+	z-index: 999;
+}
+
+/* .header_left {
+	float: left;
+}
+
+.header_right {
+	float: right;
+	height: 51px;
+}
+
+#content {
+	
+}
+
+#links_2 {
+	width: 281px;
+	height: 23px;
+	float: right;
+}
+
+.wrapper {
+	position: relative;
+	width: 600px;
+}
+
+.header {
+	background-image: url("images/kornatsko_otocje7_header.jpg");
+	background-repeat: no-repeat;
+	height: 150px;
+}
+
+#horizontalmenutop {
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalmenutop li {
+	display: inline;
+	horizontal
+	menu,
+	in
+	line
+	display
+}
+
+#horizontalmenutop li a {
+	color: #fff;
+	text-decoration: none;
+	remove
+	underline
+	font-family
+	:
+	"Adobe Garamond Pro"
+	,
+	"Adobe Caslon Pro"
+	,
+	sans-serif;
+}
+
+#horizontalmenutop li a:HOVER {
+	background-color: #369;
+	color: #fff;
+}
+
+#horizontalmenufoot {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalmenufoot li {
+	display: inline;
+	margin: 10px;
+}
+
+#horizontalmenufoot li a {
+	text-decoration: none;
+	color: #fff;
+	width: 600px;
+	padding: .2em 1em;
+	font: 0.8em;
+}
+
+#horizontalmenufoot li a:HOVER {
+	background-color: #369;
+	color: #fff;
+}
+
+.footer {
+	background: url("images/kornatsko_otocje5_footer.jpg") no-repeat;
+	margin: 0 auto;
+	position: relative;
+	width: 600px;
+} */
+
+/*---------------
+Logo & Navigation
+-----------------
+*/
+
+/* div#site_logo span, div#site_logo a {
+	background: url("images/icon&logo_pics/lr29210_700_logo.jpg") no-repeat 0 0;
+	display: block;
+	height: 149px;
+	text-indent: -9999px;
+	width: 300px;
+}
+
+#nav_00 {
+	height: 51px;
+	width: 75px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_01.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_00:HOVER, body.home #nav_00 {
+	background-position: bottom left; 
+}
+
+#nav_01 {
+	height: 51px;
+	width: 117px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_02.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_01:HOVER, body.gallery #nav_01 {
+	background-position: bottom left;
+}
+
+#nav_02 {
+	height: 51px;
+	width: 90px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_03.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_02:HOVER, body.about #nav_02 {
+	background-position: bottom left;
+}
+
+#nav_03 {
+	height: 51px;
+	width: 103px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_04.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_03:HOVER, body.contact #nav_03 {
+	background-position: bottom left;
+} */

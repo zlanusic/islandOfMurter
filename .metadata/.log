@@ -2663,3 +2663,702 @@ Created Time: 2012-09-20 13:59:24.132
 
 !ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 14:44:36.377
 !MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:37.442
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:37.525
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:37.527
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:37.531
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:37.533
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.789
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.791
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.824
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.826
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.937
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.939
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.944
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:47.946
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.055
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.057
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.062
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.065
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.180
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.183
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.189
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.191
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.321
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.324
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.329
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.332
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.444
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.446
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.451
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.453
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.560
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.562
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.567
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.568
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.674
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.676
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.681
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.683
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.790
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.792
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.797
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.800
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.918
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.920
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.925
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:48.927
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.032
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.034
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.039
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.040
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.147
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.149
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.154
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.156
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.264
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.267
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.272
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.274
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.382
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.384
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.389
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.391
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.500
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.502
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.507
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.509
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.625
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.627
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.633
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.635
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.756
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.863
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:49.970
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.074
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.190
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.300
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.409
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.515
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.620
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.735
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.841
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:18:50.946
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.743
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.745
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.750
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.752
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.858
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.860
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.865
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.866
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:22.972
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.213
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.218
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.220
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.327
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.329
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.335
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.336
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.456
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.458
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.463
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.465
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.571
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.573
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.578
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.579
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.684
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.686
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.691
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.693
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.801
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.803
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.808
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.810
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.917
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.919
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.924
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:23.926
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.058
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.060
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.065
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.067
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.174
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.176
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.181
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.183
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.290
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.292
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.298
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.300
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.405
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.408
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.413
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.415
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.522
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.524
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.529
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.531
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.639
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.641
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.657
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.659
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.769
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.771
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.776
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.778
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.894
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:24.997
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.100
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.202
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.314
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.418
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.522
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:25.625
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:26.885
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:27.668
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:27.771
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:19:27.874
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.718
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.720
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.725
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.727
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.834
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.836
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.841
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.843
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.957
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.959
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.964
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:10.966
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.072
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.074
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.079
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.081
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.186
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.188
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.193
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.195
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.301
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.303
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.308
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.310
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.421
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.423
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.428
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.430
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.540
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.542
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.547
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.549
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.662
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.664
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.669
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.671
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.777
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.779
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.784
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.786
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.891
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.893
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.898
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:11.900
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.005
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.007
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.012
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.014
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.119
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.121
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.126
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.128
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.243
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.245
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.250
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.252
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.358
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.360
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.365
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.367
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.471
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.473
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.478
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.480
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.596
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.700
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.803
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:12.913
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.015
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.119
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.221
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.326
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.436
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.539
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.641
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.
+
+!ENTRY org.eclipse.wst.jsdt.core 2 2 2012-09-20 18:30:13.742
+!MESSAGE There should only ever be one match for a constructor search but found 2 when looking for jQuery.Event. Using the first match.

@@ -83,7 +83,7 @@
 
 </head>
 
-<body>
+<body class="main">
 
 	<div id="container">
 

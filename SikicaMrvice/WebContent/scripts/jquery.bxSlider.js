@@ -65,7 +65,7 @@
 			onNextSlide: function(){},					// function(currentSlideNumber, totalSlideQty, currentSlideHtmlObject) - advanced use only! see the tutorial here: http://bxslider.com/custom-pager
 			onPrevSlide: function(){},					// function(currentSlideNumber, totalSlideQty, currentSlideHtmlObject) - advanced use only! see the tutorial here: http://bxslider.com/custom-pager
 			buildPager: null										// function(slideIndex, slideHtmlObject){ return string; } - advanced use only! see the tutorial here: http://bxslider.com/custom-pager
-		}
+		};
 		
 		var options = $.extend(defaults, options);
 		
@@ -163,7 +163,7 @@
 				// display the caption
 				showCaptions();
 			}
-		}
+		};
 		
 		/**
 		 * Go to next slide

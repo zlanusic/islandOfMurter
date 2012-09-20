@@ -1,4 +1,4 @@
-#Tue Sep 04 21:40:45 CEST 2012
+#Thu Sep 20 00:15:35 CEST 2012
 PROPERTY_NAME=\#CFBFAD | null | null | null | null | null
 CLASS=\#A7EC21 | null | null | null | null | null
 css_content_assist_default_page_sort_order=org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
@@ -14,7 +14,7 @@ ATTRIBUTE_NAME=\#A7EC21 | null | null | null | null | null
 URI=\#ECE47E | null | null | null | null | null
 ID=\#A7EC21 | null | null | null | null | null
 NORMAL=\#CFBFAD | null | null | null | null | null
-css_content_assist_own_page_sort_order=org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+css_content_assist_own_page_sort_order=org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
 STRING=\#ECE47E | null | null | null | null | null
 CURLY_BRACE=\#F9FAF4 | null | null | null | null | null
 PSEUDO=\#A7EC21 | null | null | null | null | null

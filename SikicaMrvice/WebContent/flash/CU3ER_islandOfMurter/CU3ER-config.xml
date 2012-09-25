@@ -1,0 +1,146 @@
+﻿<data>
+  <debug>0</debug><referral>lf665db467809f609</referral>
+  <project_settings>
+    <width>707</width>
+    <height>210</height>
+  </project_settings>
+  <settings>
+    <folder_images>images</folder_images>
+    <folder_fonts>fonts</folder_fonts>
+    <background>
+      <color transparent="false">0xffffff</color>
+    </background>
+    <start_slide>1</start_slide>
+    <auto_play>true</auto_play>
+    <pause_on_rollover>true</pause_on_rollover>
+    <branding align_to="stage" align_pos="TR" x="-10" y="10">
+      <remove_logo_loader>false</remove_logo_loader>
+      <remove_right_menu_info>false</remove_right_menu_info>
+      <remove_right_menu_licence>false</remove_right_menu_licence>
+    </branding>
+    <camera x="0" y="0" z="-115" angleX="0" angleY="0" angleZ="0"/>
+    <shadow show="true" use_image="false" color="0x000000" alpha="1" blur="40" corner_TL="-6,312" corner_TR="546,312" corner_BR="591,401" corner_BL="-52,401"/>
+  </settings>
+  <fonts/>
+  <preloader type="circular" align_pos="MC" width="200" height="20" x="0" y="0" radius="15">
+    <background padding="2">
+      <tweenShow tint="0x2185C5" alpha="0.85" x="0" y="0"/>
+      <tweenOver alpha="1" time="0.3" ease="Elastic.easeOut" tint="0xfa5435" delay="0"/>
+      <tweenHide alpha="0"/>
+    </background>
+    <loader>
+      <tweenShow tint="0xFFFFFF" alpha="0.8"/>
+      <tweenOver tint="0x8ac6f3" alpha="1"/>
+      <tweenHide tint="0xFFFFFF" alpha="0"/>
+    </loader>
+    <hide_on_transition>true</hide_on_transition>
+    <auto_hide time="0">true</auto_hide>
+  </preloader>
+  <controls>
+    <prev_button align_pos="ML" width="40" height="40" x="47" y="0">
+      <auto_hide time="3">false</auto_hide>
+      <hide_on_transition>true</hide_on_transition>
+      <background round_corners="0,0,0,0">
+        <tweenShow tint="0x000000" alpha="0.85" x="0" y="0" scaleX="1" scaleY="1"/>
+        <tweenOver tint="0xc8c2fd" alpha="1" x="0" y="0" scaleX="1" scaleY="1"/>
+        <tweenHide tint="0x000000" alpha="0" x="0" y="0" scaleX="1" scaleY="1"/>
+      </background>
+      <symbol type="5" align_pos="MC">
+        <tweenShow alpha="1" scaleX="0.85" scaleY="0.85" tint="0xFFFFFF"/>
+        <tweenOver tint="0xFFFFFF" scaleX="1" scaleY="1" alpha="1" x="0" y="0"/>
+        <tweenHide tint="0xFFFFFF" scaleX="0.85" scaleY="0.85" alpha="0"/>
+      </symbol>
+    </prev_button>
+    <next_button align_pos="MR" width="40" height="40" x="-49" y="0">
+      <auto_hide time="3">false</auto_hide>
+      <hide_on_transition>true</hide_on_transition>
+      <background round_corners="0,0,0,0">
+        <tweenShow tint="0x000000" alpha="0.85" x="0" y="0" scaleX="1" scaleY="1"/>
+        <tweenOver tint="0xc8c2fd" alpha="1" x="0" y="0" scaleX="1" scaleY="1"/>
+        <tweenHide tint="0x000000" alpha="0" x="0" y="0" scaleX="1" scaleY="1"/>
+      </background>
+      <symbol type="5" align_pos="MC" x="0" y="0">
+        <tweenShow alpha="1" scaleX="0.85" scaleY="0.85" tint="0xFFFFFF"/>
+        <tweenOver tint="0xFFFFFF" scaleX="1" scaleY="1" alpha="1" x="0" y="0"/>
+        <tweenHide tint="0xFFFFFF" scaleX="0.85" scaleY="0.85" alpha="0"/>
+      </symbol>
+    </next_button>
+  </controls>
+  <defaults>
+    <slide time="5" color="0x000000">
+      <image align_pos="MC" x="0" y="0" fit="outside" scaleX="1" scaleY="1"/>
+      <link target="_blank"><![CDATA[http://getcu3er.com]]></link>
+      <description>
+        <link target="_blank"><![CDATA[http://getcu3er.com/features]]></link>
+      </description>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition type="3D" columns="3" rows="3" type2D="slide" flipAngle="180" flipOrder="315" flipShader="flat" flipOrderFromCenter="false" flipDirection="right" flipColor="0x878787" flipBoxDepth="15" flipDepth="250" flipEasing="Sine.easeOut" flipDuration=".6" flipDelay=".15"/>
+  </defaults>
+  <slides width="707" height="210" align_pos="MC" x="0" y="0" corner_TL="33.934,23.88" corner_TR="506.066,23.88" corner_BL="33.934,356.12" corner_BR="506.066,356.12">
+    <slide>
+      <url><![CDATA[kornati_kucica3.JPG]]></url>
+      <link target="_self"/>
+      <description>
+        <heading><![CDATA[Heading Text]]></heading>
+        <paragraph><![CDATA[Paragraph text]]></paragraph>
+      </description>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition flipEasing="Expo.easeInOut" flipRandomize="0"/>
+    <slide>
+      <url><![CDATA[kornati_obala10.JPG]]></url>
+      <link target="_blank"><![CDATA[http://getcu3er.com]]></link>
+      <description/>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+      <image x="0" y="0" scaleX="1" scaleY="1" align_pos="MC" fit="outside"/>
+    </slide>
+    <transition type="3D" flipAngle="90"/>
+    <slide>
+      <url><![CDATA[kornati_obala14.JPG]]></url>
+      <link target="_blank"/>
+      <description>
+        <heading><![CDATA[Third Heading]]></heading>
+      </description>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition rows="3" columns="1"/>
+    <slide>
+      <url><![CDATA[kornati_obala7.JPG]]></url>
+      <link target="_self"><![CDATA[http://getcu3er.com/signup]]></link>
+      <description>
+        <paragraph><![CDATA[Paragraph for slide #4]]></paragraph>
+      </description>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition rows="1" columns="4" flipDirection="up,down"/>
+    <slide>
+      <url><![CDATA[murtersko_otocje21.JPG]]></url>
+      <link target="_blank"/>
+      <description/>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition flipDirection="left,right" rows="4" columns="1"/>
+    <slide>
+      <url><![CDATA[slanica1.JPG]]></url>
+      <link target="_blank"/>
+      <description/>
+      <seo>
+        <show image="true" heading="true" paragraph="true" caption="true"/>
+      </seo>
+    </slide>
+    <transition/>
+  </slides>
+</data>

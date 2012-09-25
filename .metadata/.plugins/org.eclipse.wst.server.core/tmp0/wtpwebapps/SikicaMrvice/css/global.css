@@ -14,6 +14,23 @@ Fonts
 -----
 */
 
+/* h3 {
+	margin: 0;
+	color: #22506A;
+	font-family:"Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida, Georgia, serif;
+	font-size:1em; 
+	padding-left:20px;
+}
+ */
+h4 {
+	margin: 0;
+	color: #22506A;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida, Georgia, serif;
+	font-size: 1em;
+	padding-left: 20px;
+}
+
+
 /* .header_right li {
 	display: inline;
 }
@@ -43,6 +60,31 @@ body {
 	font-size: 1em;
 }
 
+.home_index_jezera_head{
+	width:354px;
+	height:223px;
+	float:left;
+}
+
+.home_index_tisno_head{
+	width:353px;
+	height:223px;
+	float:left;
+}
+
+/* .home_index_murter_head{
+	width:177px;
+	height:223px;
+	float:left;
+}
+
+.home_index_betina_head{
+	width:176px;
+	height:223px;
+	float:left;
+}
+ */
+
 #container {
 	width: 1090px;
 	margin: 0 auto;
@@ -60,6 +102,10 @@ body {
 	width: 338px;
 	padding: 0;
 	margin: 0;
+}
+
+#cu3er-container {
+	width: 707px;
 }
 
 #main_left {
@@ -80,8 +126,28 @@ body {
 	/* height: 148px; */
 }
 
-/* -------------------------- upper menu ---------------------------------- */
+#content {
+	float: right;
+	width: 707px;
+	padding: 0;
+	margin: 0 45px 0 0;
+	display: inline;
+}
 
+#flash {  
+	height:210px; 
+	width:707px;
+}
+#flash2{  
+	height:223px; 
+	width:707px;
+}
+/* #flash3{ 
+	width:707px;
+}
+ */
+
+/* -------------------------- upper menu ---------------------------------- */
 #nav_container ul {
 	padding: 0;
 	margin: 0;
@@ -178,16 +244,27 @@ body {
 	z-index: 999;
 }
 
+* html .sidebar_menu ul li { float: left; height: 1%; }
+* html .sidebar_menu ul li a { height: 1%; }
+
+
+div.mod_kornati{
+        
+        text-align:right;
+        padding-top:10px;
+}
+
+
 /* -prognoza- */
 div.prognoza_mod {
-	background: /* url("images/icon&logo_pics/vremenska_prognoza_background.jpg") */ no-repeat right top;
-	background-color: #ffff;
+	background: url("images/Social_icons_pics/vremenska_prognoza_bg.jpg") right top no-repeat; 
+	
 	width: 291px;
 	min-height: 150px;
 	padding-top: 10px;
-	font-family: sans-serif;
+	font-family: arial;
 	overflow: hidden;
-	opacity: 10;
+	
 }
 
 div.prognoza_mod img.vrijeme {
@@ -197,8 +274,8 @@ div.prognoza_mod img.vrijeme {
 div.prognoza_mod p.temeratura {
 	margin-top: 0px;
 	margin-left: 180px;
-	color: silver;
-	font-size: 20px;
+	color: #326a83;
+	font-size: 36px;
 }
 
 div.prognoza_mod p.vrijeme_poruka {
@@ -206,8 +283,47 @@ div.prognoza_mod p.vrijeme_poruka {
 	margin-right: 10px;
 	margin-bottom: 5px;
 	margin-top: -160px;
-	color: silver;
+	color: #326a83;
 	font-size: 18px;
+}
+
+#socNetworks {
+	width: 100%;
+	overflow: hidden;	
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+
+#socNetworks li{
+	float: left;
+	width: 60px;	
+	list-style: none;
+	margin: 10px 0 5px 30px;
+	text-align: center;
+}
+
+#socNetworks li a{
+	display: block;
+	width: 48px;
+	font-size: 9px;
+	color: rgb(215, 236, 234);
+	padding: 35px 0 0 0;
+}	
+
+#socNetworks li a#facebook{
+	background: url(images/Social_icons_pics/facebook (1).png) center top no-repeat;	
+}
+#socNetworks li a#twitter{
+	background: url(images/Social_icons_pics/twitter (1).png) center top no-repeat;	
+}
+#socNetworks li a#flickr{
+	background: url(images/Social_icons_pics/flickr.png) center top no-repeat;	
+}
+#socNetworks li a#youtube{
+	background: url(images/Social_icons_pics/youtube.png) center top no-repeat;	
+}
+#socNetworks li a#gearth{
+	background: url(images/Social_icons_pics/gearth.png) center top no-repeat;	
 }
 
 /* -footer- */

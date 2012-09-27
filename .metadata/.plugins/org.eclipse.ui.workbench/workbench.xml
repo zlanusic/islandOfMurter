@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="99" version="2.0">
 <workbenchAdvisor/>
-<window height="768" maximized="true" width="1024" x="1757" y="194">
+<window height="768" maximized="true" width="1024" x="1898" y="115">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="153" y="22"/>
 <coolItem id="com.google.gdt.eclipse.suite.GDTPulldownToolbar" itemType="typeToolBarContribution" x="53" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
@@ -19,15 +22,16 @@
 <coolItem id="org.eclipse.wst.web.ui.wizardsActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.css.core.csssource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -41,41 +45,14 @@
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="1"/>
 <part id="0"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.wst.css.core.csssource.source" name="global.css" partName="global.css" path="C:/Users/zlanusic/islandOfMurter/SikicaMrvice/WebContent/css/global.css" title="global.css" tooltip="SikicaMrvice/WebContent/css/global.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SikicaMrvice/WebContent/css/global.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="156" selectionOffset="1104" selectionTopPixel="657"/>
-</editor>
 <editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="smokvicaKornati.jsp" partName="smokvicaKornati.jsp" path="C:/Users/zlanusic/islandOfMurter/SikicaMrvice/WebContent/smokvicaKornati.jsp" title="smokvicaKornati.jsp" tooltip="SikicaMrvice/WebContent/smokvicaKornati.jsp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SikicaMrvice/WebContent/smokvicaKornati.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8185" selectionTopPixel="2835"/>
-</editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="context.xml" partName="context.xml" path="C:/Users/zlanusic/islandOfMurter/Servers/Tomcat v7.0 Server at localhost-config/context.xml" title="context.xml" tooltip="Servers/Tomcat v7.0 Server at localhost-config/context.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Servers/Tomcat v7.0 Server at localhost-config/context.xml"/>
-</editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="server.xml" partName="server.xml" path="C:/Users/zlanusic/islandOfMurter/Servers/Tomcat v7.0 Server at localhost-config/server.xml" title="server.xml" tooltip="Servers/Tomcat v7.0 Server at localhost-config/server.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Servers/Tomcat v7.0 Server at localhost-config/server.xml"/>
-</editor>
-<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery.bxSlider.js" partName="jquery.bxSlider.js" path="C:/Users/zlanusic/islandOfMurter/SikicaMrvice/WebContent/scripts/jquery.bxSlider.js" title="jquery.bxSlider.js" tooltip="SikicaMrvice/WebContent/scripts/jquery.bxSlider.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="2" selectionOffset="15152" selectionTopPixel="150"/>
-</editor>
-<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="CU3ER.js" partName="CU3ER.js" path="C:/Users/zlanusic/islandOfMurter/SikicaMrvice/WebContent/flash/CU3ER_murter/js/CU3ER.js" title="CU3ER.js" tooltip="SikicaMrvice/WebContent/flash/CU3ER_murter/js/CU3ER.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SikicaMrvice/WebContent/flash/CU3ER_murter/js/CU3ER.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="CU3ER-config.xml" partName="CU3ER-config.xml" path="C:/Users/zlanusic/islandOfMurter/SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml" title="CU3ER-config.xml" tooltip="SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15182" selectionTopPixel="5022"/>
 </editor>
 </editors>
 <views>
@@ -84,8 +61,6 @@
 </view>
 <view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
-<expanded>&#x0A;<category IMemento.internal.id="JavaScript Problems"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.allSeverityField="563" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="198" org.eclipse.ui.ide.pathField="250" org.eclipse.ui.ide.resourceField="190"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -96,7 +71,8 @@
 </view>
 <view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
 <viewState>
-<entry expansion="false" extent="20" maximum="100" minimum="0" pinned="false" value="0">&#x0A;<entry selection="0"/>
+<entry expansion="false" extent="20" maximum="100" minimum="0" pinned="false" value="0">
+<entry selection="0"/>
 <entry selection="0"/>
 <entry selection="0"/>
 <entry selection="0"/>
@@ -174,6 +150,10 @@
 <alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
 <alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
 <show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
 <show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
@@ -248,7 +228,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.1881366" ratioLeft="314" ratioRight="1355" relationship="2" relative="topLeft"/>
 <info folder="true" part="bottomRight" ratio="0.7208068" ratioLeft="679" ratioRight="263" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.wst.server.ui.ServersView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.wst.internet.monitor.view" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
@@ -374,162 +354,165 @@
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/SikicaMrvice/WebContent/smokvicaKornati.jsp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/SikicaMrvice/WebContent/css/global.css"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/swfobject.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.galleryview-2.1.1-pack.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery-1.3.2.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/flash/CU3ER_murter/js/swfobject.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/flash/CU3ER_murter/js/CU3ER.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider/jquery.bxSlider/source/jquery.bxSlider.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.fancybox.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/SikicaMrvice/WebContent/css/global.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider/jquery.bxSlider/source/jquery.bxSlider.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.fancybox.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/SikicaMrvice/WebContent/flash/CU3ER_islandOfMurter/embed_example.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/SikicaMrvice/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/SikicaMrvice/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/SikicaMrvice/WebContent/css/global.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/SikicaMrvice/WebContent/smokvicaKornati.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.fancybox.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider/jquery.bxSlider/source/jquery.bxSlider.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/SikicaMrvice/WebContent/css/global.css"/>
 </editors>
+<item historyLabel="jquery.bxSlider.js" index="2">
+<position info="not_deleted" x="34917" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="1203" y="0"/>
+</item>
+<item historyLabel="jquery.bxSlider.js" index="2">
+<position info="not_deleted" x="1782" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="1435" y="0"/>
+</item>
 <item historyLabel="global.css" index="1">
-<position info="not_deleted" x="3918" y="0"/>
+<position info="not_deleted" x="486" y="0"/>
 </item>
 <item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8388" y="0"/>
+<position info="not_deleted" x="14743" y="0"/>
 </item>
 <item historyLabel="global.css" index="1">
-<position info="not_deleted" x="2002" y="0"/>
+<position info="not_deleted" x="2148" y="0"/>
 </item>
 <item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
+<position info="not_deleted" x="14743" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="5077" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="14743" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="2162" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="4829" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="6480" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="6807" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="3777" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="15266" y="0"/>
 </item>
 <item historyLabel="global.css" index="1">
 <position/>
 </item>
 <item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
+<position info="not_deleted" x="15266" y="0"/>
 </item>
-<item historyLabel="swfobject.js" index="2">
-<position info="not_deleted" x="545" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="jquery.galleryview-2.1.1-pack.js" index="3">
-<position info="not_deleted" x="9" y="0"/>
-</item>
-<item historyLabel="jquery.galleryview-2.1.1-pack.js" index="3">
-<position info="not_deleted" x="849" y="0"/>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="3602" y="0"/>
 </item>
 <item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
+<position info="not_deleted" x="14548" y="0"/>
 </item>
-<item historyLabel="jquery-1.3.2.js" index="4">
+<item historyLabel="jquery.fancybox.js" index="3">
+<position info="not_deleted" x="477" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="14548" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="3184" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="global.css" index="1">
+<position info="not_deleted" x="3611" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="global.css" index="4">
+<position info="not_deleted" x="3129" y="0"/>
+</item>
+<item historyLabel="jquery.bxSlider.js" index="5">
 <position info="not_deleted" x="4" y="0"/>
 </item>
-<item historyLabel="jquery-1.3.2.js" index="4">
-<position info="not_deleted" x="47887" y="0"/>
+<item historyLabel="jquery.bxSlider.js" index="5">
+<position info="not_deleted" x="1782" y="0"/>
+</item>
+<item historyLabel="jquery.fancybox.js" index="6">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="jquery.fancybox.js" index="6">
+<position info="not_deleted" x="477" y="0"/>
+</item>
+<item historyLabel="embed_example.html" index="7">
+<position info="not_deleted" x="8641" y="5"/>
 </item>
 <item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="web.xml" index="8"/>
+<item historyLabel="smokvicaKornati.jsp" index="0">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="web.xml" index="9"/>
+<item historyLabel="global.css" index="10">
+<position info="not_deleted" x="3129" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="11">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="jquery.fancybox.js" index="12">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="jquery.fancybox.js" index="12">
+<position info="not_deleted" x="477" y="0"/>
+</item>
+<item historyLabel="global.css" index="10">
+<position info="not_deleted" x="3129" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="11">
+<position info="not_deleted" x="15244" y="0"/>
+</item>
+<item historyLabel="jquery.bxSlider.js" index="13">
+<position info="not_deleted" x="1782" y="0"/>
+</item>
+<item historyLabel="jquery.fancybox.js" index="12">
+<position info="not_deleted" x="477" y="0"/>
+</item>
+<item historyLabel="global.css" index="10">
+<position info="not_deleted" x="3129" y="0"/>
+</item>
+<item historyLabel="smokvicaKornati.jsp" index="11">
 <position/>
 </item>
-<item historyLabel="swfobject.js" index="5">
-<position info="not_deleted" x="1207" y="0"/>
+<item historyLabel="global.css" index="14">
+<position info="not_deleted" x="6498" y="0"/>
 </item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
+<item historyLabel="smokvicaKornati.jsp" index="11">
+<position info="not_deleted" x="14574" y="0"/>
+</item>
+<item historyLabel="global.css" index="14">
+<position info="not_deleted" x="6498" y="0"/>
+</item>
+<item active="true" historyLabel="smokvicaKornati.jsp" index="11">
 <position/>
-</item>
-<item historyLabel="CU3ER.js" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="7522" y="0"/>
-</item>
-<item historyLabel="CU3ER-config.xml" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="6970" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="2019" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="global.css" index="1">
-<position/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="global.css" index="1">
-<position/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="global.css" index="1">
-<position/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="2049" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8841" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1585" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8586" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1894" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1894" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8551" y="15"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1578" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8859" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1578" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="8842" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1970" y="0"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="9454" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="2066" y="35"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="9454" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="2066" y="35"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="9454" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1104" y="156"/>
-</item>
-<item historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="9171" y="0"/>
-</item>
-<item historyLabel="global.css" index="1">
-<position info="not_deleted" x="1104" y="156"/>
-</item>
-<item active="true" historyLabel="smokvicaKornati.jsp" index="0">
-<position info="not_deleted" x="9171" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -542,14 +525,38 @@
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
 </trimArea>
 <trimArea IMemento.internal.id="1024">
-<trimItem IMemento.internal.id="com.google.gdt.eclipse.login.status.trim"/>
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="com.google.gdt.eclipse.login.status.trim"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="global.css" tooltip="SikicaMrvice/WebContent/css/global.css">
+<persistable path="/SikicaMrvice/WebContent/css/global.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="web.xml" tooltip="SikicaMrvice/WebContent/WEB-INF/web.xml">
+<persistable path="/SikicaMrvice/WebContent/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="embed_example.html" tooltip="SikicaMrvice/WebContent/flash/CU3ER_islandOfMurter/embed_example.html">
+<persistable path="/SikicaMrvice/WebContent/flash/CU3ER_islandOfMurter/embed_example.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery.fancybox.js" tooltip="SikicaMrvice/WebContent/scripts/jquery.fancybox.js">
+<persistable path="/SikicaMrvice/WebContent/scripts/jquery.fancybox.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="DSC03442.jpg" tooltip="SikicaMrvice/WebContent/css/images/vrt_pics/DSC03442.jpg">
+<persistable path="/SikicaMrvice/WebContent/css/images/vrt_pics/DSC03442.jpg"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="DSC03497.jpg" tooltip="SikicaMrvice/WebContent/css/images/vrt_pics/DSC03497.jpg">
+<persistable path="/SikicaMrvice/WebContent/css/images/vrt_pics/DSC03497.jpg"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery.bxSlider.js" tooltip="SikicaMrvice/WebContent/scripts/jquery.bxSlider/jquery.bxSlider/source/jquery.bxSlider.js">
+<persistable path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider/jquery.bxSlider/source/jquery.bxSlider.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery.bxSlider.min.js" tooltip="SikicaMrvice/WebContent/scripts/jquery.bxSlider.min.js">
+<persistable path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider.min.js"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="CU3ER-config.xml" tooltip="SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml">
 <persistable path="/SikicaMrvice/WebContent/flash/CU3ER_murter/CU3ER-config.xml"/>
 </file>
@@ -570,30 +577,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery-1.7.2.js" tooltip="SikicaMrvice/WebContent/scripts/jquery-1.7.2.js">
 <persistable path="/SikicaMrvice/WebContent/scripts/jquery-1.7.2.js"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="jquery.bxSlider.js" tooltip="SikicaMrvice/WebContent/scripts/jquery.bxSlider.js">
-<persistable path="/SikicaMrvice/WebContent/scripts/jquery.bxSlider.js"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ErrorDispatcher.class" tooltip="org.apache.jasper.compiler.ErrorDispatcher">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=SikicaMrvice/C:\/apache-tomcat-7\/lib\/jasper.jar&lt;org.apache.jasper.compiler(ErrorDispatcher.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DefaultErrorHandler.class" tooltip="org.apache.jasper.compiler.DefaultErrorHandler">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=SikicaMrvice/C:\/apache-tomcat-7\/lib\/jasper.jar&lt;org.apache.jasper.compiler(DefaultErrorHandler.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="twitter_link.jpg" tooltip="SikicaMrvice/WebContent/css/images/Links_pics/twitter_link.jpg">
-<persistable path="/SikicaMrvice/WebContent/css/images/Links_pics/twitter_link.jpg"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="tomcat-users.xml" tooltip="Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml">
-<persistable path="/Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="server.xml" tooltip="Servers/Tomcat v7.0 Server at localhost-config/server.xml">
-<persistable path="/Servers/Tomcat v7.0 Server at localhost-config/server.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="context.xml" tooltip="Servers/Tomcat v7.0 Server at localhost-config/context.xml">
-<persistable path="/Servers/Tomcat v7.0 Server at localhost-config/context.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="smokvicaKornati.jsp" tooltip="SikicaMrvice/WebContent/smokvicaKornati.jsp">
-<persistable path="/SikicaMrvice/WebContent/smokvicaKornati.jsp"/>
 </file>
 </mruList>
 </workbench>

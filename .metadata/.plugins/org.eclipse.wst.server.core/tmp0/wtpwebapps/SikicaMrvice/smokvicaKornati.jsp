@@ -22,17 +22,33 @@
 	content="Otok Murter, Murtersko otocje, Kornatsko otocje, Kornati"
 >
 
-<link
-	href="css/global.css"
-	rel="stylesheet"
-	type="text/css"
->
- <link href="css/layout.css" rel="stylesheet" type="text/css">
+ <link href="css/global.css" rel="stylesheet" type="text/css">
  <link href="css/jquery.fancybox.css" rel="stylesheet" media="screen">
  
  <script type="text/javascript" src="scripts/jquery-1.7.2.js"></script>
- <script type="text/javascript" src="scripts/jquery.bxSlider.js"></script>
+ <script type="text/javascript" src="scripts/jquery.bxSlider/jquery.bxSlider/jquery.bxSlider.js"></script>
  <script type="text/javascript" src="scripts/jquery.fancybox.pack.js"></script>
+ <script type="text/javascript">
+		$(document).ready(function(){
+			
+			/* $("a.bottom_footer").fancybox({ }); */
+		
+			$('#gore_izdvojeno').bxSlider({
+				prev_img: 'css/images/icon&logo_pics/prev_.gif',
+					
+				next_img: 'css/images/icon&logo_pics/next_.gif'
+				
+				
+			});
+			
+			$('#dolje_izdvojeno').bxSlider({
+				prev_img: 'css/images/icon&logo_pics/prev_plavi.gif',
+				next_img: 'css/images/icon&logo_pics/next_plavi.gif'
+			});
+			
+		});
+	</script>
+ 
  
  <script type="text/javascript" src="scripts/jquery.galleryview-2.1.1.js"></script>
  <script type="text/javascript" src="scripts/jquery.timers-1.1.2.js"></script>
@@ -76,7 +92,7 @@
     window.attachEvent("onload", initsidebarmenu);
     
     </script>
-
+<style type="text/css" media="screen">#cu3er-container {visibility:hidden}</style>
 </head>
 
 <body class="main">
@@ -86,9 +102,9 @@
 		<div id="header"><!-- top -->
 			<div id="nav_container"><!--cijeli sadrzaj -->
 				<ul id="nav_lst">
-					<li><a href="/about/">ABOUT US</a></li>
-					<li><a href="/contact/">CONTACT US</a> |</li>
-					<li id="active"><a href="/home/" id="current">HOME</a> |</li>
+					<li><a href="about.html">ABOUT US</a></li>
+					<li><a href="contact.html">CONTACT US</a> |</li>
+					<li id="active"><a href="smokvicaKornati.jsp" id="current">HOME</a> |</li>
 				</ul>
 			</div>
 		</div>
@@ -102,16 +118,16 @@
 							<ul id="sidebar_meni">
 							<li><a style="text-transform: uppercase;" class="subfolder_style">Opis apartmana</a>
 							<ul style="left: 230px; visibility: visible; display: none;">
-							<li><a href="/opis_apartmana_0-opcenito/">Općenito</a></li>
-							<li><a href="/opis_apartmana_0-gornji/">Sa pogledom na more i vrt</a></li>
-							<li><a href="/opis_apartmana_0-donji/">Sa pogledom na vrt</a></li>
+							<li><a href="opis.html">Općenito</a></li>
+							<li><a href="gore.html">Sa pogledom na more</a></li>
+							<li><a href="dolje.html">Sa pogledom na vrt</a></li>
 							</ul></li>
 								<li><a
 									style="text-transform: uppercase;"
 									class="subfolder_style"
 								>Atraktivne plaže</a>
 									<ul style="left: 230px; visibility: visible; display: none;">
-										<li><a href="/plaze_1/">Plaže u blizini</a></li>
+										<li><a href="http://www.murter-kornati.com/plaze-otok-murter/plaze-murter">Plaže u blizini</a></li>
 									</ul></li>
 								<li><a
 									style="text-transform: uppercase;"
@@ -127,9 +143,9 @@
 									</li>
 									<li><a style="text-transform: uppercase;" class="subfolder_style">Izlet sa brodom</a>
 									<ul style="left: 230px; visibility: visible; display: none;">
-									<li><a href="/izlet_okolica_2-zminjak">Izlet na Zminjak</a></li>
-									<li><a href="/izlet_okolica_2-vrgada">Izlet na Vrgadu</a></li>
-									<li><a href="/izlet_okolica_2-maslenici">Izlet u maslenike</a></li>
+									<li><a href="http://www.zminjak.com/">Izlet na Zminjak</a></li>
+									<li><a href="http://blog.dnevnik.hr/lili30/2008/09/1625332421/vrgada-otok-ribara-macaka-i-galebova.html">Izlet na Vrgadu</a></li>
+									<!-- <li><a href="/izlet_okolica_2-maslenici">Izlet u maslenike</a></li> -->
 									</ul></li>
 							</ul>
 						</div>
@@ -148,7 +164,7 @@
 					<h4>Pratite nas:</h4>
 					<ul id="socNetworks">
 					<li><a id="facebook" target="_blank" href="https://www.facebook.com/zlanusic">Facebook</a></li>
-					<li><a id="flickr" target="_blank" href="http://www.flickr.com/photos/62229308@N05/">Flickr</a></li>
+					<li><a id="flickr" target="_blank" href="https://www.flickr.com/photos/62229308@N05/">Flickr</a></li>
 					<li><a id="twitter" target="_blank" href="https://twitter.com/zlanusic">Twitter</a></li>
 					<li><a id="youtube" target="_blank" href="http://www.youtube.com/MurterIsland">Youtube</a></li>
 					<li><a id="gearth" target="_blank" href="http://goo.gl/maps/NjfyC">Google Earth</a></li>
@@ -217,17 +233,144 @@
                 </div>
               </div>
               	<div id="flash2">
-    <div class="home_index_jezera_head"><a href="jezera"><img src="css/images/Social_icons_pics/suitcase_2.png" width="354" height="224"></a></div>
-    <div class="home_index_tisno_head"><a href="tisno"><img src="css/images/Social_icons_pics/suitcase_3.png" width="353" height="224"></a></div>
-<!--     <div class="home_index_murter_head"><a href="murter"><img src="css/images/Social_icons_pics/murter.jpg" width="177" height="224"></a></div>
-    <div class="home_index_betina_head"><a href="betina"><img src="css/images/Social_icons_pics/murter.jpg" width="176" height="224"></a></div>
- -->    <br clear="all" />
+    <div class="home_index_apartman_gore">
+    <a href="apartman_gore">
+    <img src="css/images/Social_icons_pics/suitcase_2.png" width="354" height="224">
+    </a></div>
+    <div class="home_index_apartman_dolje">
+    <a href="apartman_dolje">
+    <img src="css/images/Social_icons_pics/suitcase_3.png" width="353" height="224">
+    </a></div>
+    <br clear="all" />
     </div>
-              
-              </div>
-              </div>
-              
-              </div> <!-- end container -->
+    
+    <div id="flash3">
+    	<div class="home_index_gore_content">
+    	<div class="container" style="overflow:hidden; position:relative; width:352px;">
+    	<div id="gore_izdvojeno" style="padding-top:20px;">
+
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03428.jpg"></div>
+							</div>
+
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03426.jpg"></div>
+							</div>
+								
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03427.jpg"></div>
+							</div>
+								
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03428.jpg"></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03429.jpg"></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03431.jpg"></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03432.jpg"></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03433.jpg"></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na unutrašnjost apartmana...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/apartmani_pics/DSC03434.jpg"></div>
+							</div>
+							
+				</div>
+				</div>
+				</div>
+								
+								
+				<div class="home_index_dolje_content">
+				<div class="container" style="overflow:hidden; position:relative; width:352px;">
+				<div id="dolje_izdvojeno" style="padding-top:20px;">
+			
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03475.jpg"></div>
+							</div>
+							
+						    <div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03443.jpg" ></div>
+							</div>
+								    
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03445.jpg" ></div>
+							</div>
+								    
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03446.jpg" ></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03447.jpg" ></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03449.jpg" ></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03498.jpg" ></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03497.jpg" ></div>
+							</div>
+							
+							<div style="float:left; width:352px">
+							<div class="front_heading"><h3>Pogled na nas vrt...</h3></div>
+							<div class="pic_wrapper"><img src="css/images/vrt_pics/DSC03493.jpg" ></div>
+							</div>
+							
+				</div>
+				</div>
+				</div>
+				<br clear="all">
+		
+		</div><!-- end flash3 -->
+				<a href="http://hr.wikipedia.org/wiki/Nacionalni_park_Kornati"><img class="kornati_bottom" src="css/images/Kornati_kucica_pics/kornati_bottom_hr.jpg" alt="kornati" /></a>                
+                <br clear="all">        
+		
+	</div><!-- end content -->
+   
+   </div><!-- end content-container  -->
+   <br clear="all">
+           <div id="footer"><ul>
+           <li class="ikona1"><a href="http://www.facebook.com/media/set/?set=o.231400770471&ref=mf">NA SMOKVICU</a> </li>
+           <li class="ikona2"><a target="blank" href="http://www.manager.hr/adminmax/images/upload/KORNATI-kratka-prica.pdf">PROSPEKT</a> </li>
+           <li class="ikona3"><a href="http://www.tzo-murter.hr/">INFO</a> </li>
+           <li class="ikona4"><a href="http://www.flickr.com/photos/62229308@N05/">GALERIJA</a></li>
+           </ul>
+           </div>
+   
+
+</div> <!-- end container -->
 	
 </body>
 </html>

@@ -1,10 +1,11 @@
-#Sun May 13 03:26:33 CEST 2012
+#Thu Sep 27 04:08:19 CEST 2012
 content_assist_proposals_foreground=207,191,173
 semanticHighlighting.typedef.color=82,227,246
 semanticHighlighting.enumerator.enabled=true
 content_assist_proposals_background=39,40,34
 c_type=255,0,127
 semanticHighlighting.functionDeclaration.color=167,236,33
+useQuickDiffPrefPage=true
 semanticHighlighting.functionDeclaration.enabled=true
 semanticHighlighting.class.enabled=true
 semanticHighlighting.localVariable.color=207,191,173
@@ -14,6 +15,7 @@ c_single_line_comment=255,255,255
 sourceHoverBackgroundColor.SystemDefault=false
 c_string=236,228,126
 semanticHighlighting.staticMethod.color=167,236,33
+useAnnotationsPrefPage=true
 asm_directive=255,0,127
 semanticHighlighting.typeParameter.enabled=true
 semanticHighlighting.field.color=207,191,173
@@ -22,6 +24,7 @@ semanticHighlighting.localVariable.enabled=true
 org.eclipse.cdt.internal.ui.text.doctools.multi=255,255,255
 c_comment_task_tag=255,255,255
 semanticHighlighting.localVariableDeclaration.enabled=true
+spelling_locale_initialized=true
 asm_label=207,191,173
 content_assist_parameters_foreground=207,191,173
 semanticHighlighting.namespace.enabled=true

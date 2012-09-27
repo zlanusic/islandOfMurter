@@ -134,10 +134,10 @@
 									class="subfolder_style"
 								>Odmor u pokretu</a>
 									<ul style="left: 230px; visibility: visible; display: none;">
-										<li><a href="/aktivnosti_2-bicikl/">Biciklizam</a></li>
-										<li><a href="/aktivnosti_2-setnja i trcanje/">Šetnje
+										<li><a href="http://www.murter-kornati.com/sport-i-rekreacija-murter">Biciklizam</a></li>
+										<li><a href="http://www.murter-kornati.com/sport-i-rekreacija-murter i trcanje/">Šetnje
 												i trčanje</a></li>
-										<li><a href="/aktivnosti_2-ribolov/">Ribolov</a></li>
+										<li><a href="http://www.murter-kornati.com/sport-i-rekreacija-murter">Ribolov</a></li>
 									</ul></li>
 									<li><a style="text-transform: uppercase;">Izlet u NP Kornati</a>
 									</li>
@@ -234,11 +234,11 @@
               </div>
               	<div id="flash2">
     <div class="home_index_apartman_gore">
-    <a href="apartman_gore">
+    <a href="gore_detaljno.html">
     <img src="css/images/Social_icons_pics/suitcase_2.png" width="354" height="224">
     </a></div>
     <div class="home_index_apartman_dolje">
-    <a href="apartman_dolje">
+    <a href="dolje_detaljno.html">
     <img src="css/images/Social_icons_pics/suitcase_3.png" width="353" height="224">
     </a></div>
     <br clear="all" />
@@ -367,6 +367,10 @@
            <li class="ikona3"><a href="http://www.tzo-murter.hr/">INFO</a> </li>
            <li class="ikona4"><a href="http://www.flickr.com/photos/62229308@N05/">GALERIJA</a></li>
            </ul>
+           
+           <div class="bottom_footer">
+           <a class="bottom_footer" href="../scripts/ajax/bottom_footer.php?id=1&lang=hr" title="Impressum">Impressum</a>
+           </div>
            </div>
    
 

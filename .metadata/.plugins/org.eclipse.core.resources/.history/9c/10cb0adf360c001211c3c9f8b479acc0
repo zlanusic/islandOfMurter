@@ -1,0 +1,602 @@
+/* CSS doc */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	border: none;
+}
+
+/*
+-----
+Fonts
+-----
+*/
+
+h3 {
+	margin: 0;
+	color: #22506A;
+	font-family:"Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida, Georgia, serif;
+	font-size:1em; 
+	padding-left:20px;
+}
+
+h4 {
+	margin: 0;
+	color: #22506A;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida, Georgia, serif;
+	font-size: 1em;
+	padding-left: 20px;
+}
+
+div.pic_wrapper {
+	height: 280px;
+	width: 312px;
+	overflow: hidden;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	border: 5px solid #FFF;
+	text-align: center;
+}
+
+div.front_heading{
+        height: 54px;
+        overflow: hidden;
+}
+
+div.front_heading h3{
+        display: table-cell;
+        height: 54px;
+        vertical-align: middle;
+}
+
+
+/* .header_right li {
+	display: inline;
+}
+
+#container a {
+	color: #167DB8;
+	text-decoration: none;
+}
+
+#container a:HOVER {
+	color: #ffd238;
+	text-decoration: none;
+}
+
+#entry ul {
+	list-style-type: none;
+} */
+
+/*--------
+Structure
+----------
+*/
+body {
+	background: url("images/Backgorund_pics/_background.jpg") repeat-x center 0 #C6E3F3;
+	color: #666;
+	font-family: "Adobe Caslon Pro", "Adobe Garamond Pro", Garamond, Lucida, Georgia, serif;
+	font-size: 1em;
+}
+
+.home_index_apartman_gore{
+	width:354px;
+	height:223px;
+	float:left;
+}
+
+
+.home_index_apartman_dolje{
+	width:353px;
+	height:223px;
+	float:left;
+}
+
+.home_index_gore_content{
+	width:352px;
+	background: url(images/icon&logo_pics/content_tisno.gif) repeat-x;
+	background-color:#fff;
+	border-right: 1px solid #eee;
+	float:left;
+	height:380px;
+}
+
+.home_index_dolje_content{
+	width:352px;
+	background: url(images/icon&logo_pics/content_murter.gif) repeat-x;
+	background-color:#fff;
+	border-right: 1px solid #eee;
+	float:left;
+	height:380px;
+}
+
+
+#container {
+	width: 1090px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#content_container {
+	float: left;
+	width: 1090px;
+	background: url("images/icon&logo_pics/main-back.png") repeat-y;
+}
+
+#content_left {
+	float: left;
+	width: 338px;
+	padding: 0;
+	margin: 0;
+}
+
+
+#main_left {
+	float: right;
+	width: 291px;
+	background-color: #2A546B;
+	background: url("images/icon&logo_pics/main_left.png") no-repeat;
+	z-index: 1;
+	text-align: left;
+}
+
+
+#header {
+	/* background-image: url("images/Backgorund_pics/top.png"); */
+	height: 41px;
+	width: 1090px;
+	padding: 0;
+	margin: 0;
+	/* height: 148px; */
+}
+
+#content {
+	float: right;
+	width: 707px;
+	padding: 0;
+	margin: 0 45px 0 0;
+	display: inline;
+}
+
+#footer{
+	text-align: center;
+	height:175px;
+	color:#FFF;
+	background-image:url(../images/footer.png);
+	background-repeat:no-repeat;
+	padding-left:130px;
+        font-family: arial;
+        font-weight: bold;
+}
+
+#footer ul {
+	margin: 0;
+	height: 82px;
+}
+
+#footer ul a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+#footer ul a:hover {
+	color: #CCC;
+}
+
+#footer li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 82px;
+	margin: 0;
+	height: 82px;
+	line-height: 82px;
+}
+
+#footer .ikona1 {
+	background: url("images/icon&logo_pics/Browser__.png") no-repeat top right;
+	display: block;
+	float: left;
+	margin-right: 10px;
+}
+
+#footer .ikona2 {
+	background: url("images/icon&logo_pics/Book.png") no-repeat top right;
+	display: block;
+	float: left;
+}
+
+#footer .ikona3 {
+	background: url("images/icon&logo_pics/_info_icon.png") no-repeat top right;
+	display: block;
+	float: left;
+}
+
+#footer .ikona4 {
+	background: url("images/icon&logo_pics/gallery-icon_.png") no-repeat top right;
+	display: block;
+	float: left;
+}
+
+#flash {  
+	height:210px; 
+	width:707px;
+}
+#flash2{  
+	height:223px; 
+	width:707px;
+}
+#flash3{ 
+	width:707px;
+}
+
+.kornati_bottom{
+    margin:15px 0 0 12px;
+}
+
+/* -------------------------- upper menu ---------------------------------- */
+#nav_container ul {
+	padding: 0;
+	margin: 0;
+	line-height: 41px;
+	color: #fff;
+	width: 100%;
+}
+
+#nav_container ul li {
+	display: inline;
+}
+
+#nav_container ul li a {
+	padding: 0 5px;
+	color: #fff;
+	text-decoration: none;
+	float: left;
+	font-size: 1em;
+}
+
+#nav_container ul li a:HOVER {
+	color: gray;
+}
+
+#nav_lst li {
+	float: right;
+	display: inline;
+	list-style-type: none;
+	position: relative;
+	padding-right: 1px;
+	font-size: .9em;
+}
+
+/* ------------------------------- left menu ------------------------------  */
+
+#nav_container2 {
+	padding: 10px 0px 0px 20px;
+	width: 250px;
+	margin: 0;
+	color: white;
+}
+
+/* ------------------------------ menu ------------------------------------- */
+
+.sidebar_menu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-weight: bold;
+	width: 230px;
+	border-bottom: 1px dotted #fff;
+	z-index: 999; 
+}
+
+.sidebar_menu ul li {
+	position: relative;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a {
+	display: block;
+	color: #2A3655;
+	border-bottom: 1px dotted #363D41;
+	overflow: hidden; /* IE7 */
+	text-decoration: none;
+	padding: 6px;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a:VISITED {
+	color: #ffff;
+	z-index: 999;
+}
+
+.sidebar_menu ul li a:HOVER {
+	background-color: #CBE2EE;
+	color: #437287;
+	z-index: 999;
+}
+
+.sidebar_menu ul li ul {
+	position: absolute;
+	width: 230px;
+	top: 0;
+	background-color: #4B8098;
+	visibility: hidden;
+	z-index: 999;
+}
+
+.sidebar_menu a.subfolder_style {
+	background: url("images/icon&logo_pics/right.gif") no-repeat 190px center;
+	z-index: 999;
+}
+
+* html .sidebar_menu ul li { float: left; height: 1%; }
+* html .sidebar_menu ul li a { height: 1%; }
+
+
+div.mod_kornati{
+        background-color: white;
+        text-align:right;
+        padding-top:10px;
+}
+
+
+/* -prognoza- */
+div#prognoza_mod {
+	/* background: url("images/Social_icons_pics/vremenska_prognoza_bg.jpg") right top no-repeat white; */ 
+	
+	width: 291px;
+	min-height: 150px;
+	padding-top: 10px;
+	font-family: arial;
+	overflow: hidden;
+	
+}
+
+div.prognoza_mod img.vrijeme {
+	margin-top: -20px;
+}
+
+div.prognoza_mod p.temeratura {
+	margin-top: 0px;
+	margin-left: 180px;
+	color: #326a83;
+	font-size: 36px;
+}
+
+div.prognoza_mod p.vrijeme_poruka {
+	text-align: right;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-top: -160px;
+	color: #326a83;
+	font-size: 18px;
+}
+
+div.bottom_footer{
+        font-size: 12px;
+        font-weight:normal;
+        line-height: 15px;
+        height: 15px;
+        margin-left: -130px;
+}
+
+div.bottom_footer a{
+        text-decoration: none;
+        color: #fff;
+        margin: 0px 10px;
+}
+
+div.bottom_footer a:hover{
+        text-decoration: underline;
+}
+
+#socNetworks {
+	width: 100%;
+	overflow: hidden;	
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+
+#socNetworks li{
+	float: left;
+	width: 60px;	
+	list-style: none;
+	margin: 10px 0 5px 30px;
+	text-align: center;
+}
+
+#socNetworks li a{
+	display: block;
+	width: 48px;
+	font-size: 9px;
+	color: black;
+	padding: 35px 0 0 0;
+}	
+
+#socNetworks li a#facebook {
+	background: url("images/Social_icons_pics/facebook.png") center top no-repeat;	
+}
+#socNetworks li a#twitter {
+	background: url("images/Social_icons_pics/twitter.png") center top no-repeat;	
+}
+#socNetworks li a#flickr {
+	background: url("images/Social_icons_pics/flickr_.png") center top no-repeat;	
+}
+#socNetworks li a#youtube {
+	background: url("images/Social_icons_pics/youtube_.png") center top no-repeat;	
+}
+#socNetworks li a#gearth{
+	background: url("images/Social_icons_pics/gearth_.png") center top no-repeat;	
+}
+
+/* -footer- */
+#container2 {
+	background: url("images/icon&logo_pics/foot_back.png") repeat-x;
+}
+
+/* .header_left {
+	float: left;
+}
+
+.header_right {
+	float: right;
+	height: 51px;
+}
+
+#content {
+	
+}
+
+#links_2 {
+	width: 281px;
+	height: 23px;
+	float: right;
+}
+
+.wrapper {
+	position: relative;
+	width: 600px;
+}
+
+.header {
+	background-image: url("images/kornatsko_otocje7_header.jpg");
+	background-repeat: no-repeat;
+	height: 150px;
+}
+
+#horizontalmenutop {
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalmenutop li {
+	display: inline;
+	horizontal
+	menu,
+	in
+	line
+	display
+}
+
+#horizontalmenutop li a {
+	color: #fff;
+	text-decoration: none;
+	remove
+	underline
+	font-family
+	:
+	"Adobe Garamond Pro"
+	,
+	"Adobe Caslon Pro"
+	,
+	sans-serif;
+}
+
+#horizontalmenutop li a:HOVER {
+	background-color: #369;
+	color: #fff;
+}
+
+#horizontalmenufoot {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalmenufoot li {
+	display: inline;
+	margin: 10px;
+}
+
+#horizontalmenufoot li a {
+	text-decoration: none;
+	color: #fff;
+	width: 600px;
+	padding: .2em 1em;
+	font: 0.8em;
+}
+
+#horizontalmenufoot li a:HOVER {
+	background-color: #369;
+	color: #fff;
+}
+
+.footer {
+	background: url("images/kornatsko_otocje5_footer.jpg") no-repeat;
+	margin: 0 auto;
+	position: relative;
+	width: 600px;
+} */
+
+/*---------------
+Logo & Navigation
+-----------------
+*/
+
+/* div#site_logo span, div#site_logo a {
+	background: url("images/icon&logo_pics/lr29210_700_logo.jpg") no-repeat 0 0;
+	display: block;
+	height: 149px;
+	text-indent: -9999px;
+	width: 300px;
+}
+
+#nav_00 {
+	height: 51px;
+	width: 75px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_01.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_00:HOVER, body.home #nav_00 {
+	background-position: bottom left; 
+}
+
+#nav_01 {
+	height: 51px;
+	width: 117px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_02.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_01:HOVER, body.gallery #nav_01 {
+	background-position: bottom left;
+}
+
+#nav_02 {
+	height: 51px;
+	width: 90px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_03.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_02:HOVER, body.about #nav_02 {
+	background-position: bottom left;
+}
+
+#nav_03 {
+	height: 51px;
+	width: 103px;
+	text-indent: 10000px;
+	overflow: hidden;
+	background: url("images/icon&logo_pics/nav_04.jpg") top left no-repeat;
+	display: block;
+	float: left;
+}
+
+#nav_03:HOVER, body.contact #nav_03 {
+	background-position: bottom left;
+} */

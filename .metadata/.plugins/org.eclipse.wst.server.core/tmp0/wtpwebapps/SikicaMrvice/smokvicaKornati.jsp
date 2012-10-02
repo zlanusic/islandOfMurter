@@ -25,13 +25,26 @@
  <link href="css/global.css" rel="stylesheet" type="text/css">
  <link href="css/jquery.fancybox.css" rel="stylesheet" media="screen">
  
- <script type="text/javascript" src="scripts/jquery-1.7.2.js"></script>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+ <script type="text/javascript" src="scripts/zweatherfeed-120/jquery.zweatherfeed.min.js"></script>
+ <!-- <script type="text/javascript" src="scripts/jquery-1.7.2.js"></script> -->
  <script type="text/javascript" src="scripts/jquery.bxSlider/jquery.bxSlider/jquery.bxSlider.js"></script>
  <script type="text/javascript" src="scripts/jquery.fancybox.pack.js"></script>
+ 
+ <script type="text/javascript">
+ $(document).ready(function(){
+	 
+	 $('#prognoza_mod').weatherfeed(['HRXX0011']);
+ });
+ 
+ </script>
+ 
  <script type="text/javascript">
 		$(document).ready(function(){
 			
 			/* $("a.bottom_footer").fancybox({ }); */
+			
+			
 		
 			$('#gore_izdvojeno').bxSlider({
 				prev_img: 'css/images/icon&logo_pics/prev_.gif',
@@ -152,14 +165,10 @@
 					</div>
 					<br>
 					<div class="mod_kornati">
-					<a href="e_card"><img src="css/images/Social_icons_pics/e_card_left_hr.jpg" alt="e card"></a>
+					<a href="e-razglednica.html" title="e-card"><img src="css/images/Social_icons_pics/e_card_left_hr.jpg" alt="e-card"></a>
 					</div>
 					
-					<div class="prognoza_mod">
-					<img alt="prognoza" src="css/images/icon&logo_pics/vremenska_prognoza_hr.png">
-					<img class="vrijeme" alt="" src="css/images/icon&logo_pics/30.png">
-					<p class="vrijeme_poruka">Djelomično oblačno</p>
-					<p class="temeratura">17<sup>o</sup></p>
+					<div id="prognoza_mod">
 					
 					<h4>Pratite nas:</h4>
 					<ul id="socNetworks">
@@ -369,7 +378,7 @@
            </ul>
            
            <div class="bottom_footer">
-           <a class="bottom_footer" href="../scripts/ajax/bottom_footer.php?id=1&lang=hr" title="Impressum">Impressum</a>
+           <a class="bottom_footer" href="https://github.com/zlanusic/islandOfMurter" title="whoMadeThis">madeBy</a>
            </div>
            </div>
    

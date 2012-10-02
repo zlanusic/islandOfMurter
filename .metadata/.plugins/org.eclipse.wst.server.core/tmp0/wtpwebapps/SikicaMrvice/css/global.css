@@ -343,7 +343,7 @@ div.mod_kornati{
 
 /* -prognoza- */
 div.prognoza_mod {
-	background: url("images/Social_icons_pics/vremenska_prognoza_bg.jpg") right top no-repeat white; 
+	/* background: url("images/Social_icons_pics/vremenska_prognoza_bg.jpg") right top no-repeat white; */ 
 	
 	width: 291px;
 	min-height: 150px;
@@ -353,7 +353,60 @@ div.prognoza_mod {
 	
 }
 
-div.prognoza_mod img.vrijeme {
+.weatherFeed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	margin: .5em .9em;
+	width: 278px;
+}
+.weatherFeed a { 
+	color: #888; 
+}
+.weatherFeed a:hover {
+	color: #000;
+	text-decoration: none;
+}
+.weatherItem {
+	padding: 0.8em;
+	text-align: right;
+}
+.weatherCity { 
+	text-transform: uppercase; 
+}
+.weatherTemp {
+	font-size: 2.8em;
+	font-weight: bold;
+}
+.weatherDesc, .weatherCity, .weatherForecastDay  { 
+	font-weight: bold; 
+}
+.weatherDesc { 
+	margin-bottom: 0.4em; 	
+}
+.weatherRange, .weatherWind, .weatherLink, .weatherForecastItem { 
+	font-size: 0.8em; 
+}
+.weatherLink, .weatherForecastItem {
+	margin-top: 0.5em;
+	text-align: left;
+}
+.weatherForecastItem {
+	padding: 0.5em 0.5em 0.5em 80px;
+	background-color: #fff;
+	background-position: left center;
+}
+.weatherForecastDay { 
+	font-size: 1.1em; 
+}
+
+.odd { 
+	background-color: #e8e8fc; 
+}
+.even { 
+	background-color: #d4d4e8; 
+}
+
+/* div.prognoza_mod img.vrijeme {
 	margin-top: -20px;
 }
 
@@ -372,7 +425,7 @@ div.prognoza_mod p.vrijeme_poruka {
 	color: #326a83;
 	font-size: 18px;
 }
-
+ */
 div.bottom_footer{
         font-size: 12px;
         font-weight:normal;
